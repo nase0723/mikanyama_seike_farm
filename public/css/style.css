@@ -1,0 +1,23 @@
+.flex {
+    display: flex;
+}
+
+.col_1 {
+    width: 7%;
+}
+.col_2 {
+    width: 10%;
+}
+
+.center {
+    text-align: center;
+}
+
+/* .title_img {
+    height
+} */
+
+.admin_title {
+    padding: 1rem 2rem;
+    background: #f4f4f4;
+}
